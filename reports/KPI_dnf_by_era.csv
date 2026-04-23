@@ -1,0 +1,5 @@
+era,reliability_index,entries,total_dnfs,pts_lost_to_dnf
+Hybrid,0.79,1647,346,0.05
+V8,0.77,3288,742,0.2
+V10,0.57,4000,1669,1.27
+Pre-V10,0.39,14842,8383,2.14

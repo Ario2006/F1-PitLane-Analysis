@@ -1,0 +1,73 @@
+circuitId,circuit_name,country,lat,lng,TotalRaces,FirstYear,LastYear,AvgPointsWinner
+1,Albert Park Grand Prix Circuit,Australia,-37.8497,144.968,22,1996,2017,15.454545454545455
+2,Sepang International Circuit,Malaysia,2.76083,101.738,19,1999,2017,16.05263157894737
+3,Bahrain International Circuit,Bahrain,26.0325,50.5106,13,2004,2017,18.076923076923077
+4,Circuit de Barcelona-Catalunya,Spain,41.57,2.26111,27,1991,2017,14.444444444444445
+5,Istanbul Park,Turkey,40.9517,29.405,7,2005,2011,14.285714285714286
+6,Circuit de Monaco,Monaco,43.7347,7.42056,64,1950,2017,11.1640625
+7,Circuit Gilles Villeneuve,Canada,45.5,-73.5228,38,1978,2017,12.842105263157896
+8,Circuit de Nevers Magny-Cours,France,46.8642,3.16361,18,1991,2008,10.0
+9,Silverstone Circuit,Uk,52.0786,-1.01694,51,1950,2017,11.777254901960784
+10,Hockenheimring,Germany,49.3278,8.56583,35,1970,2016,11.314285714285715
+11,Hungaroring,Hungary,47.5789,19.2486,32,1986,2017,13.59375
+12,Valencia Street Circuit,Spain,39.4589,-0.331667,5,2008,2012,19.0
+13,Circuit de Spa-Francorchamps,Belgium,50.4372,5.97139,50,1950,2017,11.78
+14,Autodromo Nazionale di Monza,Italy,45.6156,9.28111,67,1950,2017,11.067164179104477
+15,Marina Bay Street Circuit,Singapore,1.2914,103.864,10,2008,2017,22.0
+16,Fuji Speedway,Japan,35.3717,138.927,4,1976,2008,9.5
+17,Shanghai International Circuit,China,31.3389,121.22,14,2004,2017,18.571428571428573
+18,AutÃ_dromo JosÃÂ© Carlos Pace,Brazil,-23.7036,-46.6997,35,1973,2017,13.2
+19,Indianapolis Motor Speedway,Usa,39.795,-86.2347,19,1950,2007,9.0
+20,NÃ_rburgring,Germany,50.3356,6.9475,40,1951,2013,10.05
+21,Autodromo Enzo e Dino Ferrari,Italy,44.3439,11.7167,27,1980,2006,9.592592592592593
+22,Suzuka Circuit,Japan,34.8431,136.541,29,1987,2017,14.0
+23,A1-Ring,Austria,47.2197,14.7647,25,1970,2003,9.1
+24,Yas Marina Circuit,Uae,24.4672,54.6031,9,2009,2017,26.11111111111111
+25,AutÃ_dromo Juan y Oscar GÃÃlvez,Argentina,-34.6943,-58.4593,20,1953,1998,8.619047619047619
+26,Circuito de Jerez,Spain,36.7083,-6.03417,7,1986,1997,9.285714285714286
+27,AutÃ_dromo do Estoril,Portugal,38.7506,-9.39417,13,1984,1996,9.461538461538462
+28,Okayama International Circuit,Japan,34.915,134.221,2,1994,1995,10.0
+29,Adelaide Street Circuit,Australia,-34.9272,138.617,11,1985,1995,9.0
+30,Kyalami,South Africa,-25.9894,28.0767,20,1967,1993,9.1
+31,Donington Park,Uk,52.8306,-1.37528,1,1993,1993,10.0
+32,AutÃ_dromo Hermanos RodrÃ_guez,Mexico,19.4042,-99.0907,18,1963,2017,11.777777777777779
+33,Phoenix street circuit,Usa,33.4479,-112.075,3,1989,1991,9.333333333333334
+34,Circuit Paul Ricard,France,43.2506,5.79167,14,1971,1990,9.0
+35,Korean International Circuit,Korea,34.7333,126.417,4,2010,2013,25.0
+36,AutÃ_dromo Internacional Nelson Piquet,Brazil,-22.9756,-43.395,10,1978,1989,9.0
+37,Detroit Street Circuit,Usa,42.3298,-83.0401,7,1982,1988,9.0
+38,Brands Hatch,Uk,51.3569,0.263056,14,1964,1986,9.0
+39,Circuit Park Zandvoort,Netherlands,52.3888,4.54092,30,1952,1985,8.866666666666667
+40,Zolder,Belgium,50.9894,5.25694,10,1973,1984,9.0
+41,Dijon-Prenois,France,47.3625,4.89913,6,1974,1984,9.0
+42,Fair Park,Usa,32.7774,-96.7587,1,1984,1984,9.0
+43,Long Beach,Usa,33.7651,-118.189,8,1976,1983,9.0
+44,Las Vegas Street Circuit,Usa,36.1162,-115.174,2,1981,1982,9.0
+45,Jarama,Spain,40.6171,-3.58558,9,1968,1981,9.0
+46,Watkins Glen,Usa,42.3369,-76.9272,20,1961,1980,9.0
+47,Scandinavian Raceway,Sweden,57.2653,13.6042,6,1973,1978,9.0
+48,Mosport International Raceway,Canada,44.0481,-78.6756,8,1967,1977,9.0
+49,MontjuÃÃ¸c,Spain,41.3664,2.15167,4,1969,1975,7.875
+50,Nivelles-Baulers,Belgium,50.6211,4.32694,2,1972,1974,9.0
+51,Charade Circuit,France,45.7472,3.03889,4,1965,1972,9.0
+52,Circuit Mont-Tremblant,Canada,46.1877,-74.6099,2,1968,1970,9.0
+53,Rouen-Les-Essarts,France,49.3306,1.00458,5,1952,1968,8.8
+54,Le Mans,France,47.95,0.224231,1,1967,1967,9.0
+55,Reims-Gueux,France,49.2542,3.93083,11,1950,1966,7.833333333333333
+56,Prince George Circuit,South Africa,-33.0486,27.8736,3,1962,1965,9.0
+57,Zeltweg,Austria,47.2039,14.7478,1,1964,1964,9.0
+58,Aintree,Uk,53.4769,-2.94056,5,1955,1962,7.333333333333333
+59,Circuito da Boavista,Portugal,41.1705,-8.67325,2,1958,1960,8.0
+60,Riverside International Raceway,Usa,33.937,-117.273,1,1960,1960,8.0
+61,AVUS,Germany,52.4806,13.2514,1,1959,1959,9.0
+62,Monsanto Park Circuit,Portugal,38.7197,-9.20306,1,1959,1959,9.0
+63,Sebring International Raceway,Usa,27.4547,-81.3483,1,1959,1959,8.0
+64,Ain Diab,Morocco,33.5786,-7.6875,1,1958,1958,9.0
+65,Pescara Circuit,Italy,42.475,14.1508,1,1957,1957,9.0
+66,Circuit Bremgarten,Switzerland,46.9589,7.40194,5,1950,1954,9.0
+67,Circuit de Pedralbes,Spain,41.3903,2.11667,2,1951,1954,8.5
+68,Buddh International Circuit,India,28.3487,77.5331,3,2011,2013,25.0
+69,Circuit of the Americas,Usa,30.1328,-97.6411,6,2012,2017,25.0
+70,Red Bull Ring,Austria,47.2197,14.7647,4,2014,2017,25.0
+71,Sochi Autodrom,Russia,43.4057,39.9578,4,2014,2017,25.0
+73,Baku City Circuit,Azerbaijan,40.3725,49.8533,2,2016,2017,25.0

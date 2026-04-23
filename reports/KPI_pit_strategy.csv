@@ -1,0 +1,18 @@
+constructor_name,avg_pit_duration,pit_duration_std,avg_finish_pos,avg_points
+Mercedes,49.83,22.14,5.76,13.16
+Force India,51.53,25.34,9.92,3.49
+Lotus F1,52.57,25.19,9.9,5.31
+McLaren,52.99,25.48,10.0,5.12
+Ferrari,53.22,22.73,5.77,10.56
+Haas F1 Team,53.26,28.52,12.81,0.94
+Red Bull,53.63,23.75,5.56,12.19
+Toro Rosso,53.86,21.9,12.77,1.19
+Renault,53.97,30.11,13.12,1.28
+Williams,54.15,26.08,11.17,3.41
+Sauber,54.81,28.56,13.69,1.05
+Virgin,54.89,22.6,18.47,0.0
+Marussia,55.24,23.93,17.42,0.02
+Manor Marussia,56.86,28.0,16.68,0.01
+Lotus,57.72,20.97,17.5,0.0
+HRT,58.16,30.45,19.85,0.0
+Caterham,59.88,25.18,16.98,0.0
